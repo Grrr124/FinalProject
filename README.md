@@ -7,11 +7,8 @@
 * Java 
 * Spring
 * Oracle
-* Google chart
 * Data tables
 * Sweet alert
-* Js Grid
-* Kakaopay API
 * FullCalendar
 
 
